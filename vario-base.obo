@@ -1,0 +1,13 @@
+format-version: 1.2
+data-version: vario/releases/2026-03-31/vario-base.owl
+date: 23:11:2018 15:56
+saved-by: med-mnv
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: variation_ontology
+idspace: dc http://purl.org/dc/elements/1.1/ 
+idspace: oboInOwl http://www.geneontology.org/formats/oboInOwl# 
+remark: A Variation Ontology
+ontology: vario/vario-base
+property_value: dc:type IAO:8000001
+property_value: owl:versionInfo "2026-03-31" xsd:string
+

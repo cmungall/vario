@@ -24,7 +24,9 @@ license:
 activity_status: orphaned
 ---
 
-This repository preserves VariO in a minimal ODK setup for archival, indexing, and mapping work.
+This is a rescue/preservation repository created in 2026 to keep VariO available in a durable GitHub/ODK home.
+
+Chris Mungall provides repository hosting only and is not claiming original ownership or active scientific stewardship of VariO.
 
 The edit file was seeded from `https://variationontology.org/vario_download/vario.obo` on 2026-03-31.
 The rescued source snapshot is preserved at `src/ontology/upstream/vario-2026-03-31.obo`.

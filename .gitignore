@@ -67,3 +67,11 @@ src/patterns/pattern_owl_seed.txt
 src/patterns/all_pattern_terms.txt
 
 # End of ODK-managed rules
+#
+# Rescue repositories commit root release artefacts.
+!/vario.owl
+!/vario.obo
+!/vario-base.owl
+!/vario-base.obo
+!/vario-full.owl
+!/vario-full.obo

@@ -2,36 +2,33 @@
 ![Build Status](https://github.com/cmungall/vario/actions/workflows/qc.yml/badge.svg)
 # Variation Ontology
 
-Rescue repo for orphaned OBO ontology `vario`. This is a minimal ODK setup intended to keep VariO buildable and inspectable for archival, indexing, and mapping work. It does not imply active maintenance.
+This repository is a rescue home for the orphaned ontology `vario`.
+
+It was created in March 2026 to keep VariO available in a durable GitHub/ODK repository for archival, indexing, and mapping use.
+
+Chris Mungall (`cmungall`) is providing repository hosting and release automation only. He is not the original author, owner, or scientific maintainer of VariO.
 
 Description: Variation Ontology, VariO, is an ontology for standardized, systematic description of effects, consequences and mechanisms of variations.
 
-More information can be found at http://obofoundry.org/ontology/vario
+Original ontology page: http://obofoundry.org/ontology/vario
 
-## Versions
+## Repository Files
 
-### Stable release versions
-
-The latest version of the ontology can always be found at:
-
-http://purl.obolibrary.org/obo/vario.owl
-
-(note this will not show up until the request has been approved by obofoundry.org)
-
-### Editors' version
-
-Editors of this ontology should use the edit version, [src/ontology/vario-edit.obo](src/ontology/vario-edit.obo)
+- Rescued editable source: `src/ontology/vario-edit.obo`
+- Main release artefacts committed to this repo: `vario.owl`, `vario.obo`
+- Additional derived artefacts: `vario-full.owl`, `vario-full.obo`, `vario-base.owl`, `vario-base.obo`
+- Preserved rescue snapshot: `src/ontology/upstream/vario-2026-03-31.obo`
 
 ## Provenance
 
-- Edit file: `src/ontology/vario-edit.obo`
-- Preserved rescued source snapshot: `src/ontology/upstream/vario-2026-03-31.obo`
 - Seeded on 2026-03-31 from `https://variationontology.org/vario_download/vario.obo`
 - Upstream homepage: `http://variationontology.org`
 
-## Contact
+## Reporting Problems
 
-Please use this GitHub repository's [issue tracker](https://github.com/cmungall/vario/issues) for repository and preservation work.
+Please use this GitHub repository's [issue tracker](https://github.com/cmungall/vario/issues) for problems with the rescue repo, the committed release artefacts, or provenance.
+
+This tracker is not a claim of scientific ownership or governance over VariO.
 
 ## Acknowledgements
 
