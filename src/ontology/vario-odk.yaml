@@ -1,0 +1,12 @@
+id: vario
+title: Variation Ontology
+github_org: cmungall
+repo: vario
+edit_format: obo
+git_main_branch: main
+description: Variation Ontology, VariO, is an ontology for standardized, systematic description of effects, consequences and mechanisms of variations.
+license: https://creativecommons.org/licenses/by/4.0/
+release_use_reasoner: false
+release_artefacts:
+  - full
+  - base

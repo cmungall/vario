@@ -1,0 +1,28 @@
+# PURL configuration for http://purl.obolibrary.org/obo/vario
+
+idspace: VARIO
+base_url: /obo/vario
+
+products:
+- vario.owl: https://raw.githubusercontent.com/cmungall/vario/main/vario.owl
+- vario.obo: https://raw.githubusercontent.com/cmungall/vario/main/vario.obo
+
+term_browser: ontobee
+example_terms:
+- VARIO_0000000
+
+entries:
+
+- prefix: /releases/
+  replacement: https://raw.githubusercontent.com/cmungall/vario/v
+
+- prefix: /tracker/
+  replacement: https://github.com/cmungall/vario/issues
+
+- prefix: /about/
+  replacement: http://www.ontobee.org/ontology/VARIO?iri=http://purl.obolibrary.org/obo/
+
+## generic fall-through, serve direct from github by default
+- prefix: /
+  replacement: https://raw.githubusercontent.com/cmungall/vario/main/
+
