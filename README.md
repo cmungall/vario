@@ -8,6 +8,8 @@ It was created in March 2026 to keep VariO available in a durable GitHub/ODK rep
 
 Chris Mungall (`cmungall`) is providing repository hosting and release automation only. He is not the original author, owner, or scientific maintainer of VariO.
 
+Parent OBO Foundry tracking issue: [OBOFoundry/OBOFoundry.github.io#2881](https://github.com/OBOFoundry/OBOFoundry.github.io/issues/2881)
+
 Description: Variation Ontology, VariO, is an ontology for standardized, systematic description of effects, consequences and mechanisms of variations.
 
 Original ontology page: http://obofoundry.org/ontology/vario
